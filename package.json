@@ -16,18 +16,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/dhrub-dubey/Valentine-s_Wish.git"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
-  "modification": "GovindCodes",
+  "author": "Dhrub Dubey",
+  "modification": "Dhrub Dubey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": "https://github.com/dhrub-dubey/Valentine-s_Wish/issues"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage": "https://github.com/dhrub-dubey/Valentine-s_Wish#readme",
   "dependencies": {}
 }
